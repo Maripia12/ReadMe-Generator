@@ -6,11 +6,11 @@ Contents, Installation, Usage, License, Contributing, Tests and Questions.
 
 ## Details:
 
-* I first type on my terminal- node .\index.js and then  prompt with the first question: Title of project.
+* I first type on the terminal: node .\index.js and then I'm prompt with the first question: Title of project.
 
-* I'm then asked with more questions regarding the description, installation instructions, usage information, contribution guidelines and test instructions.
+* Additional questions follow regarding: Description, Installation Instructions, Usage Information, Contribution Guidelines and Test Instructions.
 
-* As I type in the terminal, the information is added to the corresponding sections of the ReadMe file.
+* As I type in the answers through tge terminal, the information gathered is added to the corresponding sections of the ReadMe file.
 
 * When I choose a license from a list of options, then a badge for that license is added near the top of my ReadMe file. 
 
