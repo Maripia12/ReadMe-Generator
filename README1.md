@@ -24,4 +24,4 @@ Contents, Installation, Usage, License, Contributing, Tests and Questions.
 
 ---
 
-![screenshot](Image\readmepic.png) 
+![screenshot](Image/readmepic.png) 
